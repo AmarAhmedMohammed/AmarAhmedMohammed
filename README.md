@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=35&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=350&height=50&lines=Hi+There" alt="Hi There"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=35&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=50&lines=Hi+There" alt="Hi There"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=45&duration=4000&pause=3000&color=D4A574&center=true&vCenter=true&repeat=true&width=500&height=60&lines=I+am+Amar+Ahmed" alt="I am Amar Ahmed"/>
 
