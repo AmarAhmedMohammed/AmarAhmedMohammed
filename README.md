@@ -60,16 +60,20 @@ const amar = {
 
 <div align="center">
 
+### 📚 Languages & Frameworks
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,dart,python,php,mysql" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap,nodejs,threejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap,nodejs,threejs" />
 </p>
 
+### 🧰 Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman" />
 </p>
 
 </div>
@@ -146,16 +150,23 @@ const amar = {
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🌍 Connect With Me
 
-<a href="https://t.me/AmuKocha"><img src="https://img.shields.io/badge/Telegram-AmuKocha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://img.shields.io/badge/LinkedIn-Amar_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://wa.me/251963142410"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="mailto:amarselmansudeys@gmail.com"><img src="https://img.shields.io/badge/Gmail-amarselmansudeys-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/AmarAhmedMohammed"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://amar33.vercel.app"><img src="https://img.shields.io/badge/Portfolio-amar33.vercel.app-d4a574?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<p>
+  <a href="https://t.me/AmuKocha"><img src="https://skillicons.dev/icons?i=telegram" width="48" alt="Telegram"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/251963142410"><img src="https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="48" alt="WhatsApp"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:amarselmansudeys@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AmarAhmedMohammed"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+  &nbsp;&nbsp;
+  <a href="https://amar33.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48" alt="Portfolio"/></a>
+</p>
 
-<br/><br/>
+<br/>
 
 ### 💡 _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
