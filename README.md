@@ -20,6 +20,8 @@
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,html,css,tailwind,bootstrap,nextjs,threejs,nodejs,php" />
 </p>
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%A7%B0+Tools+%26+Platforms" alt="Tools & Platforms"/>
 
 <p>
