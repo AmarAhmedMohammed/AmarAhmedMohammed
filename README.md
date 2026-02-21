@@ -37,7 +37,7 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/251963142410"><img src="https://skillicons.dev/icons?i=whatsapp" width="45"/></a>
+  <a href="https://wa.me/251963142410"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/></a>
   &nbsp;&nbsp;
   <a href="mailto:amarselmansudeys@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
