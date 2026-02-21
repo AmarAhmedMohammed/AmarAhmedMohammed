@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amar Ahmed</h1>
+<h3 align="center">Full Stack Web & Flutter Developer</h3>
 
-<!--
-**AmarAhmedMohammed/AmarAhmedMohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Passionate developer focused on building beautiful, functional and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,flutter,dart,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmarAhmedMohammed&show_icons=true&theme=dark" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+- Portfolio: https://amar33.vercel.app
+- Email: amarselmansudeys@gmail.com
