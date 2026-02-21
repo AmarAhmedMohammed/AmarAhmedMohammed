@@ -14,13 +14,13 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=400&height=35&lines=%F0%9F%93%9A+Languages+%26+Frameworks" alt="Languages & Frameworks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&height=35&lines=%F0%9F%93%9A+Languages+%26+Frameworks" alt="Languages & Frameworks"/>
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,html,css,tailwind,bootstrap,nextjs,threejs,nodejs,php" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=350&height=35&lines=%F0%9F%A7%B0+Tools+%26+Platforms" alt="Tools & Platforms"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%A7%B0+Tools+%26+Platforms" alt="Tools & Platforms"/>
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql" />
@@ -28,10 +28,10 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
 
 <p>
-  <a href="https://t.me/AmuKocha"><img src="https://img.shields.io/badge/-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="45"/></a>
+  <a href="https://t.me/AmuKocha"><img src="https://skillicons.dev/icons?i=telegram&theme=light" width="45"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   &nbsp;
