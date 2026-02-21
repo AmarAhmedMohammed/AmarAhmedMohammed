@@ -1,26 +1,26 @@
 <div align="center">
 
-## Hi There
+<h1><samp>Hi There</samp></h1>
 
-## I am Amar Ahmed
+<h1><samp>I am Amar Ahmed</samp></h1>
 
-### Full Stack Web Developer
+<h2><samp>Full Stack Web Developer</samp></h2>
 
 <br/>
 
-� React | TypeScript | Flutter | Firebase 🔥
+<samp>🚀 React | TypeScript | Firebase 🔥</samp>
 
 <br/>
 
 ---
 
-### 📚 Languages & Frameworks
+### <samp>📚 Languages & Frameworks</samp>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,python,html,css,tailwind,bootstrap,nextjs,threejs,nodejs,php" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,html,css,tailwind,bootstrap,nextjs,threejs,nodejs,php" />
 </p>
 
-### 🧰 Tools & Platforms
+### <samp>🧰 Tools & Platforms</samp>
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌍 Connect With Me
+### <samp>🌍 Connect With Me</samp>
 
 <p>
   <a href="https://t.me/AmuKocha"><img src="https://skillicons.dev/icons?i=telegram" width="45"/></a>
