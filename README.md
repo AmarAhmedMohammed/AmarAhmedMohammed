@@ -1,26 +1,26 @@
 <div align="center">
 
-<h1><samp>Hi There</samp></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=35&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=350&height=50&lines=Hi+There" alt="Hi There"/>
 
-<h1><samp>I am Amar Ahmed</samp></h1>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=45&duration=4000&pause=3000&color=D4A574&center=true&vCenter=true&repeat=true&width=500&height=60&lines=I+am+Amar+Ahmed" alt="I am Amar Ahmed"/>
 
-<h2><samp>Full Stack Web Developer</samp></h2>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=25&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Full+Stack+Web+Developer" alt="Full Stack Web Developer"/>
 
 <br/>
 
-<samp>🚀 React | TypeScript | Firebase 🔥</samp>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=400&size=18&duration=3000&pause=1500&color=D4A574&center=true&vCenter=true&repeat=true&width=450&height=30&lines=React+%7C+TypeScript+%7C+Firebase" alt="Tech"/>
 
 <br/>
 
 ---
 
-### <samp>📚 Languages & Frameworks</samp>
+### 📚 Languages & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,html,css,tailwind,bootstrap,nextjs,threejs,nodejs,php" />
 </p>
 
-### <samp>🧰 Tools & Platforms</samp>
+### 🧰 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql" />
@@ -28,7 +28,7 @@
 
 ---
 
-### <samp>🌍 Connect With Me</samp>
+### 🌍 Connect With Me
 
 <p>
   <a href="https://t.me/AmuKocha"><img src="https://skillicons.dev/icons?i=telegram" width="45"/></a>
