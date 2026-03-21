@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=45&duration=4000&pause=3000&color=D4A574&center=true&vCenter=true&repeat=true&width=500&height=60&lines=I+am+Amar+Ahmed" alt="I am Amar Ahmed"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=25&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Full+Stack+Web+Developer" alt="Full Stack Web Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=25&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Full+Stack+Web+Developer;Flutter+Mobile+App+Developer" alt="Full Stack Web & Flutter Mobile App Developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=400&size=18&duration=3000&pause=1500&color=D4A574&center=true&vCenter=true&repeat=true&width=450&height=30&lines=React+%7C+TypeScript+%7C+Firebase" alt="Tech"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=400&size=18&duration=3000&pause=1500&color=D4A574&center=true&vCenter=true&repeat=true&width=550&height=30&lines=React+%7C+TypeScript+%7C+Flutter+%7C+Dart+%7C+Firebase" alt="Tech"/>
 
 <br/>
 
@@ -22,14 +22,22 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&height=35&lines=%F0%9F%93%B1+Mobile+Development" alt="Mobile Development"/>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
+</p>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%A7%B0+Tools+%26+Platforms" alt="Tools & Platforms"/>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql,mongodb" />
 </p>
 
 ---
-
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
 
 <p>
